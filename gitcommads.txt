@@ -1,6 +1,6 @@
 mkdir <directory_name> : create a directory.
 chmod -R 777 <directory_name> : give read/write permission to the directory.
-cd <directory_name> : goesinside the directory.
+cd <directory_name> : goes inside the directory.
 cd .. : takes you back one level previous the main directory.
 ls: shows child directories.
 git clone <link> : clones the server repository into local repository.
@@ -9,6 +9,7 @@ git status : shows the status of the repository.
 git init : initializes a .git repository.
 git remote add origin/any_alias_name <link> : to link local with server repository.
 git add <file to be synced> : connects readme.md to bridge created.
+git add . : connects all the files instead of selecting eac file bridge created.
 git commit -m "message" : adds readme.md to local cache.
 git pull origin master --allow-unrelated-histories : pulls the file from github.
 git push origin master : pushes the file to github.
