@@ -1,0 +1,96 @@
+<!--Type of HTML File-->
+<!DOCTYPE html>
+
+<!--Language embedded-->
+<html lang="en">
+
+<!--main header of the web page-->
+    <head>
+
+        <!--charset deceleration-->
+        <meta charset="UTF-8">
+
+        <!--Title of the web page-->
+        <title>DMV Form</title>
+    </head>
+
+    <!--main body of the web page-->
+    <body>
+
+        <!--Main article of forms-->
+        <article>
+
+            <!--Main header for forms-->
+            <header>
+                <h1>Welcome to my web page !!</h1>
+            </header>
+
+            <!--body of forms-->
+            <section>
+
+                <!--form for new license-->
+                <form id ="newLicenseForm">
+
+                    <!--div for First Name-->
+                    <div>
+                        <label for="firstName">Applicant's First Name:</label>
+                        <input type="text" id="firstName" name ="firstName" placeholder="First Name" />
+                    </div>
+                    <br />
+
+                    <!--div for Last Name-->
+                    <div>
+                        <label for="lastName">Applicant's Last Name:</label>
+                        <input type="text" id="lastName" name ="lastName" placeholder="Last Name" />
+                    </div>
+                    <br />
+
+                    <div>
+                        <!--div for Phone Number-->
+                        <label for="phoneNumber">Applicant's Phone Number:</label>
+                        <input type="text" id="phoneNumber" name ="phoneNumber" placeholder="Phone Number" />
+                    </div>
+                    <br />
+
+                    <!--div for gender-->
+                    <div>
+                        <label for="gender">Applicant's Gender :</label>
+                        <div id="gender">
+
+                            <!--Radio for Male-->
+                            <label for="male">Male</label>
+                            <input type="radio" id="male" name ="gender" value="Male" />
+
+                            <!--Radio for Female-->
+                            <label for="female">Female</label>
+                            <input type="radio" id="female" name ="gender" value="Female" />
+                        </div>
+                    </div>
+                    <br />
+
+                    <!--div for Senior Citizen-->
+                    <div>
+                        <label for="seniorCitizen">Is Applicant a Senior Citizen</label>
+                        <input type="checkbox" id="seniorCitizen" name="Senior">
+                    </div>
+                    <br />
+
+                    <!--Submit Button-->
+                    <button type="submit" id="submit">
+                        <span>Submit</span>
+                    </button>
+
+                    <!--Cancel Button-->
+                    <button type="reset" id="reset">
+                        <span>Cancel</span>
+                    </button>
+                </form>
+            </section>
+
+            <!--Main footer for forms-->
+            <footer>
+                <h1>Thank you for filling the form. </h1>
+            </footer>
+        </article>
+    </body>
+</html>
