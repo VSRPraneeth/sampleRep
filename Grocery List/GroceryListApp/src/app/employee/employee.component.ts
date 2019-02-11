@@ -11,4 +11,10 @@ export class EmployeeComponent{
   firstName: string = 'Praneeth';
   gender: string = 'Male';
   age: number = 24;
+  showDetails : boolean = false;
+  
+  toggleDetails(): void{
+    this.showDetails = !this.showDetails;
+  }
+
 }
