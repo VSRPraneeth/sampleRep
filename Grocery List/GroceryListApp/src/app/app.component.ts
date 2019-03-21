@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { splitClasses, StylesCompileDependency } from '@angular/compiler';
 
 @Component({
   selector: 'app-root',
@@ -34,9 +33,19 @@ import { splitClasses, StylesCompileDependency } from '@angular/compiler';
                 You entered: {{name}}
                 <br/>
                 <list-employee></list-employee>
-            
+                <br/>
+                Your Text : <input type = 'text' [(ngModel)] = 'userInput'/>
+                <br/>
+                <br/>
+                <simple [simpleInput] = 'userInput'></simple>
+                <div style = "padding: 5px">
+                  <ul class = "nav nav-tabs">
+                  <li><a routerLink = "home"></a></li>
+                  <li><a routerLink = "employees"></a></li>
+                  </ul>
+                </div>
 
-                </div>`,
+            </div>`,
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
@@ -83,5 +92,7 @@ export class AppComponent {
     }
 
     name:string ="Tom";
+
+    userInput:string="Praneeth";
 
 }
