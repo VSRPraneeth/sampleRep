@@ -1,0 +1,139 @@
+<!--Type of HTML File-->
+<!DOCTYPE html>
+
+<!--Language embedded-->
+<html lang="en">
+
+<!--main header of the web page-->
+    <head>
+
+        <!--Title of this html file-->
+        <title>DMV Form</title>
+
+        <!--CSS style on the html file itself-->
+        <style>
+            body{
+                background-color: #eefffe;
+            }
+        </style>
+
+        <!--JavaScript on the html file itself-->
+        <script>
+
+        </script>
+
+        <!--link is used to link an external source(generally for images and css files)-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+
+        <!--This points to the base URL of the web page-->
+        <!--This is optional only to be written based on server configuration-->
+        <base href="/home"/>
+
+        <!--Used to describe any other meta data not covered by the above five-->
+        <meta name="description" content="This is the official website for applying for a new license"/>
+        <meta name="keywords" content="DMV, License, form, application"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+        <!--charset deceleration-->
+        <meta charset="UTF-8">
+
+    </head>
+
+    <!--main body of the web page-->
+    <body>
+
+        <!--Main article of forms-->
+        <article>
+
+            <!--Main header for forms-->
+            <header>
+                <h1>Welcome to my web page !!</h1>
+            </header>
+
+            <!--body of forms-->
+            <section>
+
+                <!--form for new license-->
+                <form id ="newLicenseForm">
+
+                    <!--div for First Name-->
+                    <div>
+                        <label for="firstName">Applicant's First Name:</label>
+                        <input type="text" id="firstName" name ="firstName" placeholder="First Name" />
+                    </div>
+                    <br />
+                    <!--div for Last Name-->
+                    <div>
+                        <label for="lastName">Applicant's Last Name:</label>
+                        <input type="text" id="lastName" name ="lastName" placeholder="Last Name" />
+                    </div>
+                    <br />
+
+                    <div>
+                        <!--div for Phone Number-->
+                        <label for="phoneNumber">Applicant's Phone Number:</label>
+                        <input type="text" id="phoneNumber" name ="phoneNumber" placeholder="Phone Number" />
+                    </div>
+                    <br />
+
+                    <!--div for gender-->
+                    <div>
+                        <label for="gender">Applicant's Gender :</label>
+                        <div id="gender">
+
+                            <!--Radio for Male-->
+                            <label for="male">Male</label>
+                            <input type="radio" id="male" name ="gender" value="Male" />
+
+                            <!--Radio for Female-->
+                            <label for="female">Female</label>
+                            <input type="radio" id="female" name ="gender" value="Female" />
+                        </div>
+                    </div>
+                    <br />
+
+                    <!--div for email-->
+                    <div>
+                        <label for="email">Applicant's e-mail Address:</label>
+                        <input type="email" id="email" name="email" placeholder="email Address">
+                    </div>
+                    <br />
+
+                    <!--div for password-->
+                    <div>
+                        <label for="password">Applicant's e-mail Address:</label>
+                        <input type="password" id="password" name="password" placeholder="Password">
+                    </div>
+                    <br />
+
+                    <!--div for Senior Citizen-->
+                    <div>
+                        <label for="seniorCitizen">Is Applicant a Senior Citizen</label>
+                        <input type="checkbox" id="seniorCitizen" name="Senior">
+                    </div>
+                    <br />
+
+                    <!--Submit Button-->
+                    <button type="submit" id="submit">
+                        <span>Submit</span>
+                    </button>
+
+                    <!--Cancel Button-->
+                    <button type="reset" id="reset">
+                        <span>Cancel</span>
+                    </button>
+                </form>
+
+                <aside>
+                    <iframe src="E:/gitstart/sampleRep/htmlFiles/helloWorld.html" />
+                </aside>
+            </section>
+
+            <!--Main footer for forms-->
+            <footer>
+                <h1>Thank you for filling the form. </h1>
+            </footer>
+        </article>
+    </body>
+</html>

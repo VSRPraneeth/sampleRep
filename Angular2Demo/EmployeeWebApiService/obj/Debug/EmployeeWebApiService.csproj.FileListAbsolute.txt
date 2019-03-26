@@ -1,0 +1,181 @@
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\EmployeeWebApiService.dll.config
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\EmployeeWebApiService.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\EmployeeWebApiService.pdb
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\csc.exe
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\csc.exe.config
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\csc.rsp
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\csi.exe
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\csi.exe.config
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\csi.rsp
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.Managed.Core.targets
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.AppContext.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Collections.Immutable.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Console.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.IO.Compression.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.IO.FileSystem.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.IO.Pipes.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Reflection.Metadata.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Security.AccessControl.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Security.Claims.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Security.Principal.Windows.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.ValueTuple.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Xml.XmlDocument.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Xml.XPath.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\vbc.exe
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\vbc.exe.config
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\vbc.rsp
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\VBCSCompiler.exe
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\roslyn\VBCSCompiler.exe.config
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\Antlr3.Runtime.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\EntityFramework.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\EntityFramework.SqlServer.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\Microsoft.Web.Infrastructure.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\Newtonsoft.Json.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Diagnostics.DiagnosticSource.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Net.Http.Formatting.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Helpers.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Http.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Http.WebHost.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Mvc.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Optimization.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Razor.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.WebPages.Deployment.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.WebPages.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.WebPages.Razor.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\WebGrease.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\EntityFramework.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\EntityFramework.SqlServer.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\Newtonsoft.Json.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Net.Http.Formatting.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Helpers.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Http.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Http.WebHost.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Mvc.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Optimization.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.Razor.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.WebPages.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.WebPages.Deployment.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Web.WebPages.Razor.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\Antlr3.Runtime.pdb
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\System.Diagnostics.DiagnosticSource.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.csproj.CoreCompileInputs.cache
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.csproj.CopyComplete
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.dll
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.pdb
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\EmployeeWebApiService.dll.CodeAnalysisLog.xml
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\bin\EmployeeWebApiService.dll.lastcodeanalysissucceeded
+E:\gitstart\UIFiles\Grocery List\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.csprojAssemblyReference.cache
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\EmployeeWebApiService.dll.config
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\EmployeeWebApiService.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\EmployeeWebApiService.pdb
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\csc.exe
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\csc.exe.config
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\csc.rsp
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\csi.exe
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\csi.exe.config
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\csi.rsp
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.Managed.Core.targets
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.AppContext.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Collections.Immutable.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Console.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.IO.Compression.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.IO.FileSystem.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.IO.Pipes.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Reflection.Metadata.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Security.AccessControl.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Security.Claims.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Security.Principal.Windows.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.ValueTuple.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Xml.XmlDocument.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Xml.XPath.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\vbc.exe
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\vbc.exe.config
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\vbc.rsp
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\VBCSCompiler.exe
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\roslyn\VBCSCompiler.exe.config
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\Antlr3.Runtime.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\EntityFramework.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\EntityFramework.SqlServer.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\Microsoft.Web.Infrastructure.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\Newtonsoft.Json.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Diagnostics.DiagnosticSource.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Net.Http.Formatting.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Helpers.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Http.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Http.WebHost.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Mvc.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Optimization.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Razor.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.WebPages.Deployment.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.WebPages.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.WebPages.Razor.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\WebGrease.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\EntityFramework.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\EntityFramework.SqlServer.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\Newtonsoft.Json.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Net.Http.Formatting.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Helpers.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Http.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Http.WebHost.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Mvc.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Optimization.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.Razor.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.WebPages.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.WebPages.Deployment.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Web.WebPages.Razor.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\Antlr3.Runtime.pdb
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\System.Diagnostics.DiagnosticSource.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.csproj.CoreCompileInputs.cache
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.csproj.CopyComplete
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.dll
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.pdb
