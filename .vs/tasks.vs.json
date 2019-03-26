@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-bootstrap",
+      "appliesTo": "Grocery List/GroceryListApp/node_modules/bootstrap/",
+      "type": "launch"
+    }
+  ]
+}
