@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Angular2Demo",
-    "\\Angular2Demo\\node_modules\\bootstrap\\dist",
-    "\\Angular2Demo\\node_modules\\bootstrap\\js",
     "\\Angular2Demo\\src",
     "\\Angular2Demo\\src\\app",
     "\\Angular2Demo\\src\\app\\others",
@@ -11,6 +8,6 @@
     "\\EmployeeWebApiService\\App_Start",
     "\\EmployeeWebApiService\\Controllers"
   ],
-  "SelectedNode": "\\EmployeeWebApiService\\Controllers\\ValuesController.cs",
+  "SelectedNode": "\\EmployeeWebApiService\\EmployeeWebApiService.csproj",
   "PreviewInSolutionExplorer": false
 }

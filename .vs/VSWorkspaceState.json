@@ -9,6 +9,10 @@
     "\\Angular2Demo\\EmployeeWebApiService",
     "\\Angular2Demo\\EmployeeWebApiService\\Controllers"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\Angular2Demo\\EmployeeWebApiService.sln",
+=======
+  "SelectedNode": "\\Angular2Demo\\Angular2Demo\\src\\app\\employee\\employeeCount.component.ts",
+>>>>>>> 0600a774b9cd9c01f08aa5afa6b28c8c165a4bd4
   "PreviewInSolutionExplorer": false
 }

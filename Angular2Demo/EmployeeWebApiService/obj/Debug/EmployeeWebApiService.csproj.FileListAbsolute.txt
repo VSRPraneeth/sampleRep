@@ -179,3 +179,7 @@ E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\obj\Debug\EmployeeWebApiS
 E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.csproj.CopyComplete
 E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.dll
 E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.pdb
+<<<<<<< HEAD
+=======
+E:\gitstart\UIFiles\Angular2Demo\EmployeeWebApiService\obj\Debug\EmployeeWebApiService.csprojAssemblyReference.cache
+>>>>>>> 0600a774b9cd9c01f08aa5afa6b28c8c165a4bd4
